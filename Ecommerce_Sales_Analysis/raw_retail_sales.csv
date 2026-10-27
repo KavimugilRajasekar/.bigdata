@@ -1,0 +1,12 @@
+TransactionID,Date,CustomerID,ProductID,Category,Quantity,UnitPrice,Region
+1,2023-01-01,101,P1,Electronics,1,1200,North
+2,2023-01-02,102,P2,Electronics,2,25,South
+3,2023-01-02,103,P3,Furniture,1,45,East
+4,2023-01-03,101,P1,Electronics,1,1200,North
+5,2023-01-04,104,P4,Furniture,1,150,
+6,2023-01-05,105,P5,Furniture,1,200,South
+7,2023-01-06,102,P1,Electronics,1,1200,South
+8,2023-01-07,106,P6,Furniture,2,30,East
+9,2023-01-08,103,P2,Electronics,3,25,East
+10,2023-01-09,107,P7,Electronics,1,800,West
+11,2023-01-02,103,P3,Furniture,1,45,East

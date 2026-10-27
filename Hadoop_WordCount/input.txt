@@ -1,0 +1,6 @@
+Big Data is the future of analytics.
+Hadoop makes Big Data processing easy.
+MapReduce is a core part of Hadoop.
+Big Data analytics provides deep insights.
+Hadoop and MapReduce work together.
+Big Data is powerful.
