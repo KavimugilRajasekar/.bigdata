@@ -1,0 +1,22 @@
+stages:
+  - build
+  - test
+  - deploy
+
+build_job:
+  stage: build
+  script:
+    - echo "Building application..."
+    - python3 -m py_compile app/main.py
+
+test_job:
+  stage: test
+  script:
+    - echo "Running unit tests..."
+    - python3 app/test_main.py
+
+deploy_job:
+  stage: deploy
+  script:
+    - echo "Deploying to production server..."
+    - echo "Deployment Successful!"

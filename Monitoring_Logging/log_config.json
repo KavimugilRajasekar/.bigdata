@@ -1,0 +1,6 @@
+{
+  "logging_level": "INFO",
+  "destination": "central-log-server",
+  "format": "JSON",
+  "aggregation": "Elasticsearch"
+}
